@@ -10,7 +10,7 @@
 
 ![name](https://img.shields.io/badge/Sana--Quazi)
 
-## Project 7 [Live Link]()
+## Project 7 [Live Link](https://live-project-seven.netlify.app/)
 
 - Learned how we can use position Relative & Absolute in combination so that items can be stacked on top of each other
 - Learned to add shadows onto svgs by using adobe xd
